@@ -58,7 +58,7 @@ const PRODUCTS = [
     name: 'Paramount+ 1M',
     price: 45.00,
     stock: 0,
-    image: 'img/paramount,png'
+    image: 'img/paramount.png'
   },
   {
     id: 'stream-vix-1m',
@@ -74,7 +74,7 @@ const PRODUCTS = [
     name: 'YouTube Premium 1M',
     price: 60.00,
     stock: 0,
-    image: 'img/youtube,png'
+    image: 'img/youtube.png'
   },
 
   /* ===== FREE FIRE ===== */
