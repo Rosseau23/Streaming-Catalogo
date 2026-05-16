@@ -18,7 +18,7 @@ const PRODUCTS = [
     name: 'Netflix Premium',
     price: 275.00,
     stock: 99,
-    image: '' // ej: 'img/netflix.jpg'
+    image: 'img/netflix.png' 
   },
   {
     id: 'stream-prime-6m',
@@ -26,7 +26,7 @@ const PRODUCTS = [
     name: 'Prime video 1M',
     price: 75.00,
     stock: 0,
-    image: ''
+    image: 'img/prime.png'
   },
   {
     id: 'stream-spotify-1m',
@@ -34,7 +34,7 @@ const PRODUCTS = [
     name: 'Spotify Premium 1M',
     price: 50.00,
     stock: 0,
-    image: ''
+    image: 'img/spotify.png'
   },
   {
     id: 'stream-disney-1m',
@@ -42,7 +42,7 @@ const PRODUCTS = [
     name: 'Disney+ 1M',
     price: 75.00,
     stock: 99,
-    image: ''
+    image: 'img/disney.png'
   },
   {
     id: 'stream-hbo-1m',
@@ -50,7 +50,7 @@ const PRODUCTS = [
     name: 'HBO Max 1M',
     price: 75.00,
     stock: 99,
-    image: ''
+    image: 'img/hbo.png'
   },
   {
     id: 'stream-paramount-1m',
@@ -58,7 +58,7 @@ const PRODUCTS = [
     name: 'Paramount+ 1M',
     price: 45.00,
     stock: 0,
-    image: ''
+    image: 'img/paramount,png'
   },
   {
     id: 'stream-vix-1m',
@@ -66,7 +66,7 @@ const PRODUCTS = [
     name: 'Vix Premium 1M',
     price: 45.00,
     stock: 99,
-    image: ''
+    image: 'img/vix.png'
   },
   {
     id: 'stream-youtube-1m',
@@ -74,7 +74,7 @@ const PRODUCTS = [
     name: 'YouTube Premium 1M',
     price: 60.00,
     stock: 0,
-    image: ''
+    image: 'img/youtube,png'
   },
 
   /* ===== FREE FIRE ===== */
