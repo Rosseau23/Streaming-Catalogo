@@ -469,7 +469,7 @@ document.addEventListener('keydown', (e) => {
 
 /* ---------- Envío por WhatsApp ---------- */
 function buildWhatsappMessage() {
-  let msg = 'Hola, me interesa realizar una cotización de los siguientes productos:\n';
+  let msg = 'Hola, me interesa realizar la compra de los siguientes productos:\n';
   cart.forEach(({ product, qty }) => {
     const subtotal = product.price * qty;
     msg += `- ${qty}x ${product.name} (${formatPrice(subtotal)})\n`;
