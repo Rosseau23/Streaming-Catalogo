@@ -16,7 +16,7 @@ const PRODUCTS = [
     id: 'stream-netflix-premium',
     category: 'streaming',
     name: 'Netflix Premium',
-    price: 275.00,
+    price: 235.00,
     stock: 99,
     image: 'img/netflix.png' 
   },
